@@ -18,6 +18,9 @@ p {
 li {
 	color: #000000;
 }
+a {
+	color: #FFFFFF;
+}
 
 #summary {
 	width: 100%;
