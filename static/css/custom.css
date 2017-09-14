@@ -67,6 +67,9 @@ a {
 	color: #708090;
 	text-align: center;
 }
+#jobs a {
+	color: #4169E1;
+}
 
 #classes {
 	background: #FFFFFF;
